@@ -1,8 +1,9 @@
 # AI Artifact Removal for Academic Writing / 学术文本 AI 感消除
 
 > 用于消除学术文本 AI 风格痕迹并校正学术文体的 Prompt，采用两阶段润色策略
-<img width="80%" alt="image" src="https://github.com/user-attachments/assets/5a1cc21a-c1cd-45d7-a643-05ef2d5174d6" />
-
+<div align="center">
+  <img width="80%" alt="image" src="https://github.com/user-attachments/assets/5a1cc21a-c1cd-45d7-a643-05ef2d5174d6" />
+</div>
 使用建议：
 1. 可直接用于由大模型生成的学术文本,单次润色文本长度建议控制在 2,000–5,000 字。  
 2. 注意：一定要在推理模型上运行。  
