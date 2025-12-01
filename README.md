@@ -6,6 +6,14 @@
   <img width="80%" alt="image" src="https://github.com/user-attachments/assets/5a1cc21a-c1cd-45d7-a643-05ef2d5174d6" />
 </div>
 
+
+<p align="center">
+  <a href="https://ai-refine-app-643d.vercel.app/">
+    <img src="https://img.shields.io/badge/在线体验-点击进入-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" alt="在线体验链接" />
+  </a>
+</p>
+
+
 使用建议：
 1. 可直接用于由大模型生成的学术文本,单次润色文本长度建议控制在 2,000–5,000 字。    
 2. 注意：一定要在推理模型上运行。   
