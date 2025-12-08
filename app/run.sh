@@ -1,0 +1,1 @@
+OPENAI_API_KEY=sk-kmTaBOc9iO2vMfId3TpZq2wXN1Vhqc6TVp5qmWacrwgRAxhT OPENAI_BASE_URL=https://yunwu.ai/v1 npm run dev
